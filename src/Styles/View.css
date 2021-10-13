@@ -1,0 +1,36 @@
+.view{
+    margin: 400px auto;
+}
+
+.view__result{
+    font-size: 28px;
+    padding: 20px 10px;
+    width: 300px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.view__back-link{
+    font-size: 28px;
+    background-color: white;
+    margin: 20px auto;
+    width: 250px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 30px;
+    text-align: center;
+}
+
+.view__back-link a{
+    color: black;
+    text-decoration: none;
+}
+
+.view__back-link img{
+    height: 100px;
+}
